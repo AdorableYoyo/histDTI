@@ -1,0 +1,13 @@
+rdkit-pypi
+numpy
+pandas
+tqdm
+scikit-learn
+wget
+torch
+matplotlib
+requests
+pandas-flavor
+subword-nmt
+lifelines
+ax-platform
